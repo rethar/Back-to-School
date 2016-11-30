@@ -3,6 +3,7 @@ links to tutorials/courses/webpages with test automation materials & programming
 
 ##MOC sites:
 
+
 https://www.coursera.org/
 
 https://www.edx.org/
@@ -25,7 +26,9 @@ https://www.udemy.com/
 
 https://www.hackerrank.com/domains/python/py-introduction
 
+
 ##Materials & Tutorials:
+
 
 http://selenium-python.readthedocs.io/
 
@@ -39,8 +42,11 @@ https://www.youtube.com/user/MrBantu50/playlists (Youtube)
 
 https://www.youtube.com/channel/UCI6WktH6vOqk6SO4bDqfx_g/playlists (Youtube)
 
+http://www.techbeamers.com/important-selenium-webdriver-commands/
+
 
 ##GIT:
+
 http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 
 
