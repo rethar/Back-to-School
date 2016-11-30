@@ -27,8 +27,9 @@ https://www.udemy.com/
 https://www.hackerrank.com/domains/python/py-introduction
 
 
-##Materials & Tutorials:
+##Materials, Documentation & Tutorials:
 
+https://seleniumhq.github.io/selenium/docs/api/py/api.html
 
 http://selenium-python.readthedocs.io/
 
