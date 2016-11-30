@@ -1,7 +1,7 @@
 # Learning Test Automation
 links to tutorials/courses/webpages with test automation materials & programming/IT skills learning in general
 
-MOC sites:
+##MOC sites:
 
 https://www.coursera.org/
 https://www.edx.org/
@@ -16,7 +16,7 @@ https://code.org/
 https://www.udemy.com/
 https://www.hackerrank.com/domains/python/py-introduction
 
-Materials & Tutorials:
+##Materials & Tutorials:
 
 http://selenium-python.readthedocs.io/
 https://www.youtube.com/channel/UCMWpdB7WNWNWEBZMZvGQjrQ/videos (Youtube)
@@ -27,11 +27,11 @@ https://www.youtube.com/channel/UCI6WktH6vOqk6SO4bDqfx_g/playlists (Youtube)
 
 
 
-GIT:
+##GIT:
 http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 
 
-SAMPLE webpages to practice test automation:
+##SAMPLE webpages to practice test automation:
 
 http://the-internet.herokuapp.com/
 https://asta.pgs-soft.com/
