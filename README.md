@@ -49,7 +49,9 @@ http://www.techbeamers.com/important-selenium-webdriver-commands/
 ##GIT:
 
 http://rogerdudler.github.io/git-guide/
+
 http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+
 http://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html
 
 
