@@ -26,6 +26,8 @@ https://www.udemy.com/
 
 https://www.hackerrank.com/domains/python/py-introduction
 
+https://www.sololearn.com/Course/Python/
+
 
 ##Materials, Documentation & Tutorials:
 
