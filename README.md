@@ -48,6 +48,9 @@ https://www.youtube.com/channel/UCI6WktH6vOqk6SO4bDqfx_g/playlists (Youtube)
 http://www.techbeamers.com/important-selenium-webdriver-commands/
 
 
+https://github.com/vhf/free-programming-books/blob/master/free-courses-en.md
+
+
 ##GIT:
 
 http://rogerdudler.github.io/git-guide/
@@ -68,3 +71,5 @@ https://asta.pgs-soft.com/
 ## E-Books Library
 
 https://www.dropbox.com/sh/9gj7xc8zvwjsl4g/AADr-B7sfUhwU3_3t9g4XrPna?dl=0
+
+https://github.com/vhf/free-programming-books/blob/master/free-programming-books-pl.md
