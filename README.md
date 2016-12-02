@@ -29,6 +29,9 @@ https://www.hackerrank.com/domains/python/py-introduction
 https://www.sololearn.com/Course/Python/
 
 
+https://github.com/vhf/free-programming-books/blob/master/free-courses-en.md
+
+
 ##Materials, Documentation & Tutorials:
 
 https://seleniumhq.github.io/selenium/docs/api/py/api.html
@@ -47,8 +50,6 @@ https://www.youtube.com/channel/UCI6WktH6vOqk6SO4bDqfx_g/playlists (Youtube)
 
 http://www.techbeamers.com/important-selenium-webdriver-commands/
 
-
-https://github.com/vhf/free-programming-books/blob/master/free-courses-en.md
 
 
 ##GIT:
