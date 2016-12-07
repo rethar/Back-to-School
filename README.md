@@ -24,12 +24,17 @@ https://code.org/
 
 https://www.udemy.com/
 
+
+# Additional courses list: https://github.com/vhf/free-programming-books/blob/master/free-courses-en.md
+
+# Comprehensive testing course on Software testing: http://www.guru99.com/software-testing.html
+
+# Python courses: 
+
 https://www.hackerrank.com/domains/python/py-introduction
 
 https://www.sololearn.com/Course/Python/
 
-
-https://github.com/vhf/free-programming-books/blob/master/free-courses-en.md
 
 
 ##Materials, Documentation & Tutorials:
@@ -71,8 +76,13 @@ http://the-internet.herokuapp.com/
 https://asta.pgs-soft.com/
 
 
-## E-Books Library
+## E-Books Library:
 
 https://www.dropbox.com/sh/9gj7xc8zvwjsl4g/AADr-B7sfUhwU3_3t9g4XrPna?dl=0
 
 https://github.com/vhf/free-programming-books/blob/master/free-programming-books-pl.md
+
+
+## Testing & Tech blogs/sites/forums:
+
+
