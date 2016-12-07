@@ -60,6 +60,8 @@ http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 
 http://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html
 
+Darmowy kurs z ćwiczeniami - https://www.udacity.com/course/how-to-use-git-and-github--ud775
+
 
 
 ##SAMPLE webpages to practice test automation:
