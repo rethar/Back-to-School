@@ -1,4 +1,3 @@
-# Back to School
 links to tutorials/courses/webpages with test automation materials & programming/IT skills learning in general
 
 ## MOC sites:
