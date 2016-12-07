@@ -1,4 +1,4 @@
-# Back to School
+### Back to School
 links to tutorials/courses/webpages with test automation materials & programming/IT skills learning in general
 
 ## MOC sites:
@@ -26,9 +26,11 @@ https://www.udemy.com/
 
 
 Additional courses list: 
+
 https://github.com/vhf/free-programming-books/blob/master/free-courses-en.md
 
 Comprehensive testing course on Software testing: 
+
 http://www.guru99.com/software-testing.html
 
 Python courses: 
@@ -89,4 +91,5 @@ https://github.com/vhf/free-programming-books/blob/master/free-programming-books
 
 http://elementalselenium.com/ @ http://davehaeffner.com/
 
+Great source of testing knowledge: https://github.com/pwicherski/TestowanieOprogramowania
 
