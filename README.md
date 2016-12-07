@@ -25,11 +25,13 @@ https://code.org/
 https://www.udemy.com/
 
 
-# Additional courses list: https://github.com/vhf/free-programming-books/blob/master/free-courses-en.md
+Additional courses list: 
+https://github.com/vhf/free-programming-books/blob/master/free-courses-en.md
 
-# Comprehensive testing course on Software testing: http://www.guru99.com/software-testing.html
+Comprehensive testing course on Software testing: 
+http://www.guru99.com/software-testing.html
 
-# Python courses: 
+Python courses: 
 
 https://www.hackerrank.com/domains/python/py-introduction
 
@@ -84,5 +86,7 @@ https://github.com/vhf/free-programming-books/blob/master/free-programming-books
 
 
 ## Testing & Tech blogs/sites/forums:
+
+http://elementalselenium.com/
 
 
