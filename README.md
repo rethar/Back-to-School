@@ -1,7 +1,7 @@
 # Back to School
 links to tutorials/courses/webpages with test automation materials & programming/IT skills learning in general
 
-##MOC sites:
+## MOC sites:
 
 
 https://www.coursera.org/
@@ -39,7 +39,7 @@ https://www.sololearn.com/Course/Python/
 
 
 
-##Materials, Documentation & Tutorials:
+## Materials, Documentation & Tutorials:
 
 https://seleniumhq.github.io/selenium/docs/api/py/api.html
 
@@ -59,7 +59,7 @@ http://www.techbeamers.com/important-selenium-webdriver-commands/
 
 
 
-##GIT:
+## GIT:
 
 http://rogerdudler.github.io/git-guide/
 
@@ -71,7 +71,7 @@ Darmowy kurs z ćwiczeniami - https://www.udacity.com/course/how-to-use-git-and-
 
 
 
-##SAMPLE webpages to practice test automation:
+## SAMPLE webpages to practice test automation:
 
 http://the-internet.herokuapp.com/
 
@@ -87,6 +87,6 @@ https://github.com/vhf/free-programming-books/blob/master/free-programming-books
 
 ## Testing & Tech blogs/sites/forums:
 
-http://elementalselenium.com/
+http://elementalselenium.com/ @ http://davehaeffner.com/
 
 
