@@ -39,6 +39,7 @@ https://www.hackerrank.com/domains/python/py-introduction
 https://www.sololearn.com/Course/Python/
 
 
+https://www.linkedin.com/learning/paths/become-a-software-quality-assurance-engineer
 
 ## Materials, Documentation & Tutorials:
 
