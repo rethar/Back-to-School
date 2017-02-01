@@ -88,6 +88,8 @@ https://www.dropbox.com/sh/9gj7xc8zvwjsl4g/AADr-B7sfUhwU3_3t9g4XrPna?dl=0
 
 https://github.com/vhf/free-programming-books/blob/master/free-programming-books-pl.md
 
+https://devfreebooks.github.io/
+
 
 ## Testing & Tech blogs/sites/forums:
 
